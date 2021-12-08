@@ -1,0 +1,5 @@
+nodion:
+  env: node
+  version: 16.13
+  build_command: yarn
+  start_command: node server.js
